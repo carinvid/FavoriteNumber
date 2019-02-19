@@ -10,6 +10,7 @@ int main()
   std::cin >> fav_num;
   
   std::cout <<"Amazing that is my favorite number too!" <<std::endl;
+  std::cout << "No really!, " << fav_num <<" is my favorite too" <<std::endl;
   
   return 0;
 }
